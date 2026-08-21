@@ -1,0 +1,9 @@
+parameter,direction,expected_value,delta
+p_advantage,low,0.616,-0.317
+p_advantage,high,1.249,0.316
+delta_value,low,0.616,-0.317
+delta_value,high,1.249,0.316
+cost,low,1.171,0.238
+cost,high,0.695,-0.238
+learning_value,low,0.778,-0.155
+learning_value,high,1.088,0.155

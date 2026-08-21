@@ -1,0 +1,13 @@
+use_case,combinatorial_structure,simulation_content,optimization_criticality,data_readiness,near_term_feasibility,decision_value_potential,amenability_score,recommendation,rationale
+Supply-chain network design,0.81,0.83,0.82,0.76,0.66,0.69,0.768,GO (pilot now),"score=0.77, feasibility=0.66"
+GPS-denied navigation filtering,0.98,0.06,0.78,0.87,0.63,0.69,0.738,GO (pilot now),"score=0.74, feasibility=0.63"
+Workforce shift scheduling,0.83,0.63,0.98,0.45,0.72,0.51,0.708,GO (pilot now),"score=0.71, feasibility=0.72"
+Portfolio rebalancing optimization,0.82,0.64,0.84,0.3,0.65,0.77,0.701,GO (pilot now),"score=0.70, feasibility=0.65"
+Derivative pricing simulation,0.89,0.44,0.63,0.38,0.26,0.7,0.616,PILOT (quantum-inspired first),"score=0.62, feasibility=0.26"
+Insurance risk aggregation,0.94,0.89,0.43,0.43,0.19,0.59,0.612,PILOT (quantum-inspired first),"score=0.61, feasibility=0.19"
+Cyber alert triage optimization,0.56,0.35,0.56,0.84,0.55,0.61,0.59,PILOT (quantum-inspired first),"score=0.59, feasibility=0.55"
+Fraud pattern detection,0.76,0.23,0.33,0.74,0.11,0.84,0.569,PILOT (quantum-inspired first),"score=0.57, feasibility=0.11"
+Loan collateral optimization,0.55,0.82,0.44,0.58,0.21,0.63,0.542,NO-GO (harden classical pipeline),"score=0.54, feasibility=0.21"
+Data-center energy dispatch,0.5,0.97,0.63,0.51,0.21,0.45,0.536,NO-GO (harden classical pipeline),"score=0.54, feasibility=0.21"
+UAV mission route planning,0.28,0.55,0.41,0.55,0.73,0.74,0.511,NO-GO (harden classical pipeline),"score=0.51, feasibility=0.73"
+Molecular property screening,0.3,0.76,0.53,0.87,0.47,0.32,0.498,NO-GO (harden classical pipeline),"score=0.50, feasibility=0.47"

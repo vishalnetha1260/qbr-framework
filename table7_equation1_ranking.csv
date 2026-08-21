@@ -1,0 +1,6 @@
+initiative,expected_value,learning_component,learning_share_pct,rank,recommendation
+Wait and monitor,0.933,0.62,66.4,1,PILOT (staged option)
+Quantum talent program,0.843,0.732,86.9,2,PILOT (staged option)
+Pilot quantum-inspired optimizer,0.488,1.18,242.0,3,PILOT (staged option)
+Cloud QPU experiment,0.465,0.813,174.8,4,PILOT (staged option)
+PQC migration program,0.14,0.774,552.3,5,PARTNER or WAIT

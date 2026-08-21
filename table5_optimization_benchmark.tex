@@ -1,0 +1,14 @@
+\begin{table}
+\caption{Cardinality-constrained portfolio QUBO: method comparison (10 seeds).}
+\label{tab:benchmark}
+\begin{tabular}{lrrrr}
+\toprule
+method & objective & std & runtime\_s & optimality\_gap\_pct \\
+\midrule
+Exhaustive (exact) & 0.298 & 0.000 & 0.096 & 0.000 \\
+Greedy (classical) & 0.298 & 0.000 & 0.000 & 0.000 \\
+Random search (classical) & 0.220 & 0.030 & 0.024 & 26.170 \\
+Simulated annealing (quantum-inspired) & 0.298 & 0.000 & 0.142 & 0.000 \\
+\bottomrule
+\end{tabular}
+\end{table}

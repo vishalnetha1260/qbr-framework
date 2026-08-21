@@ -1,0 +1,6 @@
+initiative,ev_mean,ev_p05,ev_p95,prob_positive
+Wait and monitor,0.932,0.729,1.158,1.0
+Quantum talent program,0.842,0.704,1.006,1.0
+Pilot quantum-inspired optimizer,0.487,0.399,0.574,1.0
+Cloud QPU experiment,0.466,0.213,0.693,0.999
+PQC migration program,0.14,0.059,0.227,0.999

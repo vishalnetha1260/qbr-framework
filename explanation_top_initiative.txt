@@ -1,0 +1,4 @@
+Recommendation driver analysis for 'Wait and monitor' (base E[V] = 0.93 $M):
+- Most influential assumption: 'delta_value' (+/-25% moves E[V] by up to 0.32 $M).
+- Sensitivity ranking: delta_value (0.32), p_advantage (0.32), cost (0.24), learning_value (0.15).
+- Interpretation: the recommendation is justified primarily by option/learning value and advantage probability, consistent with the article's claim that L_i,s frequently dominates near-term quantum-inspired pilot cases.

@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Mosca timing analysis and prioritized PQC migration queue (z=12y).}
+\label{tab:mosca}
+\begin{tabular}{lrrrrrrr}
+\toprule
+system & shelf\_life\_years & migration\_years & sensitivity & mosca\_lhs\_years & exposed & margin\_years & priority\_score \\
+\midrule
+Public web TLS & 17 & 5.300 & 0.980 & 22.300 & True & -10.300 & 10.090 \\
+HR records & 21 & 3.300 & 0.810 & 24.300 & True & -12.300 & 9.960 \\
+Payment switch & 19 & 6.200 & 0.640 & 25.200 & True & -13.200 & 8.450 \\
+Archived contracts & 16 & 6.400 & 0.250 & 22.400 & True & -10.400 & 2.600 \\
+VPN gateway & 11 & 3.900 & 0.710 & 14.900 & True & -2.900 & 2.060 \\
+IoT firmware signing & 11 & 1.500 & 0.860 & 12.500 & True & -0.500 & 0.430 \\
+Customer PII vault & 3 & 7.800 & 0.380 & 10.800 & False & 1.200 & 0.000 \\
+R\&D data lake & 3 & 7.500 & 0.480 & 10.500 & False & 1.500 & 0.000 \\
+Backup archive & 5 & 6.700 & 0.910 & 11.700 & False & 0.300 & 0.000 \\
+M\&A data room & 3 & 3.800 & 0.820 & 6.800 & False & 5.200 & 0.000 \\
+\bottomrule
+\end{tabular}
+\end{table}

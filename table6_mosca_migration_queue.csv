@@ -1,0 +1,11 @@
+system,shelf_life_years,migration_years,sensitivity,mosca_lhs_years,exposed,margin_years,priority_score
+Public web TLS,17,5.3,0.98,22.3,True,-10.3,10.09
+HR records,21,3.3,0.81,24.3,True,-12.3,9.96
+Payment switch,19,6.2,0.64,25.2,True,-13.2,8.45
+Archived contracts,16,6.4,0.25,22.4,True,-10.4,2.6
+VPN gateway,11,3.9,0.71,14.9,True,-2.9,2.06
+IoT firmware signing,11,1.5,0.86,12.5,True,-0.5,0.43
+Customer PII vault,3,7.8,0.38,10.8,False,1.2,0.0
+R&D data lake,3,7.5,0.48,10.5,False,1.5,0.0
+Backup archive,5,6.7,0.91,11.7,False,0.3,0.0
+M&A data room,3,3.8,0.82,6.8,False,5.2,0.0
